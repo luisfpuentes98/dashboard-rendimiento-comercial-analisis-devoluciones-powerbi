@@ -29,6 +29,14 @@ A través de un modelo de datos robusto y cálculos DAX avanzados, el panel inte
 ## 📸 Vista del Modelo Relacional
 <img width="852" height="737" alt="modelo_datos" src="https://github.com/user-attachments/assets/35c9bec0-23ef-4959-bb64-8b46ecf6d67a" />
 
+## 📂 Archivos del Proyecto (Data & .pbix)
+
+Debido al gran volumen de datos manejado en este proyecto (más de 1 millón de registros), los archivos originales superan el límite de tamaño de GitHub. 
+
+Puedes descargar el archivo interactivo de Power BI (`.pbix`) y los datasets originales (archivos `.csv`) desde el siguiente enlace seguro:
+
+👉 **[Descargar Proyecto Completo en Google Drive](https://drive.google.com/drive/folders/1bT7-D_xsA3KjFd8GYGUfPwgR-JXsA7M3?usp=sharing)**
+
 ## ⚙️ Muestra de Código (DAX)
 Para lograr este nivel de análisis y manejar el alto volumen de datos de manera eficiente, se desarrollaron métricas avanzadas. Aquí destaco tres enfoques clave:
 
